@@ -10,6 +10,12 @@ This repository provides:
 
 > This repository does not contain the application source code.
 
+## Download
+
+Download the latest version of Center Cursor on Screen:
+
+[Download Center Cursor on Screen](https://www.publictalksoftware.co.uk/?sdm_process_download=1&download_id=10057)
+
 ## Documentation
 
 Visit the [Wiki](../../wiki) for:
