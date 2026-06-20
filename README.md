@@ -1,16 +1,56 @@
 # Center Cursor on Screen — Support
 
-This repository serves as a place for:
-- Reporting **issues** related to Center Cursor on Screen
-- Participating in **discussions** and feature suggestions
-- Accessing **documentation** and **guides** via the [Wiki](../../wiki)
+Welcome to the support repository for **Center Cursor on Screen**.
 
-There is no source code hosted here.
+This repository provides:
+
+- 🐛 **Issue tracking** for bug reports and problems
+- 💡 **Discussions** for feature requests, ideas, and feedback
+- 📖 **Documentation** through the [Wiki](../../wiki)
+
+> This repository does not contain the application source code.
+
+## Documentation
+
+Visit the [Wiki](../../wiki) for:
+
+- Installation instructions
+- Getting started guide
+- Using Center Cursor on Screen
+- Keyboard shortcuts
+- Multi-monitor information
+- Troubleshooting
+- Change log
 
 ## Getting Help
-- **Open an Issue** for bug reports, questions, or problems you encounter.
-- **Start a Discussion** if you have feature ideas, usage tips, or general feedback.
-- **Browse the Wiki** for setup instructions, FAQs, and usage examples.
+
+### Report a Problem
+
+Open an **Issue** if you are experiencing:
+
+- Installation problems
+- Keyboard shortcut issues
+- Monitor detection problems
+- Unexpected behaviour
+
+### Suggest an Improvement
+
+Start a **Discussion** if you have:
+
+- Feature ideas
+- Suggestions
+- General feedback
 
 ## About Center Cursor on Screen
-Center Cursor on Screen is a lightweight utility that repositions the mouse cursor to the center of your screen — useful for multi-monitor setups, streaming, and accessibility.
+
+Center Cursor on Screen is a lightweight Windows utility designed for multi-monitor setups.
+
+It allows you to quickly move the mouse pointer to the centre of a selected display using keyboard shortcuts.
+
+Features include:
+
+- Support for multiple monitors
+- Global keyboard shortcuts
+- System tray operation
+- Monitor coordinate information
+- Automatic startup option
